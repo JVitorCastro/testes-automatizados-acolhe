@@ -1,0 +1,20 @@
+{
+  "success": {
+    "name": "MATEUS CUNHA LIMA DE MORAES GUERRA",
+    "email": "mateusmwar@gmail.com",
+    "password": "idzq%f"
+  },
+  "invpass": {
+    "name": "MATEUS CUNHA LIMA DE MORAES GUERRA",
+    "email": "mateusmwar@gmail.com",
+    "password": "ESFINGE"
+  },
+  "email404": {
+    "email": "404",
+    "password": "idzq%f"
+  },
+  "incorrectEmail": {
+    "email": "testeAcolhe123@gmail.com",
+    "password": "idzq%f"
+  }
+}
