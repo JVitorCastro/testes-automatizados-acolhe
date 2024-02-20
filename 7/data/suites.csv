@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 20 17:36:13 GMT 2024","Tue Feb 20 17:36:18 GMT 2024","4618","","Login","","","","Login com sucesso",""
+"passed","Tue Feb 20 17:36:20 GMT 2024","Tue Feb 20 17:36:21 GMT 2024","1206","","Login","","","","Tentativa de login com email inválido",""
+"passed","Tue Feb 20 17:36:21 GMT 2024","Tue Feb 20 17:36:23 GMT 2024","1842","","Login","","","","Tentativa de login com email incorreto",""
+"passed","Tue Feb 20 17:36:18 GMT 2024","Tue Feb 20 17:36:20 GMT 2024","1610","","Login","","","","Tentativa de login com senha incorreta",""
