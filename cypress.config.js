@@ -8,7 +8,8 @@ module.exports = defineConfig({
       return config
     },
     env: {
-      allure: true
+      allure: true,
+      allureAddVideoOnPass: true
     },
     baseUrl: 'https://acolhe-disciplina.innovagovlab.org/entrar'
   },
