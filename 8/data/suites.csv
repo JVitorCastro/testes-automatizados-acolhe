@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 22 12:33:04 GMT 2024","Thu Feb 22 12:33:05 GMT 2024","1303","","Login","","","","Tentativa de login com senha incorreta",""
+"passed","Thu Feb 22 12:33:01 GMT 2024","Thu Feb 22 12:33:04 GMT 2024","2101","","Login","","","","Login com sucesso",""
+"failed","Thu Feb 22 12:32:39 GMT 2024","Thu Feb 22 12:32:56 GMT 2024","16991","Cadastro de famílias","Cenários de sucesso","","","","Cadastro de uma família em um abrigo",""
+"passed","Thu Feb 22 12:33:06 GMT 2024","Thu Feb 22 12:33:07 GMT 2024","1421","","Login","","","","Tentativa de login com email incorreto",""
+"passed","Thu Feb 22 12:33:05 GMT 2024","Thu Feb 22 12:33:06 GMT 2024","1054","","Login","","","","Tentativa de login com email inválido",""
