@@ -1,6 +1,6 @@
 class LoginPage {
   submit(email, password) {
-    cy.visit('/')
+    cy.visit('/entrar')
     cy.get('#email').type(email)
     cy.get('#password').type(password)
     cy.contains('button', 'Entrar').click()

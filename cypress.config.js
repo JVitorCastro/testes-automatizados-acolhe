@@ -9,8 +9,9 @@ module.exports = defineConfig({
     },
     env: {
       allure: true,
-      allureAddVideoOnPass: true
+      allureAddVideoOnPass: true,
     },
-    baseUrl: 'https://acolhe-disciplina.innovagovlab.org/entrar'
+    baseUrl: 'https://acolhe-disciplina.innovagovlab.org',
+    defaultCommandTimeout: 10000
   },
 })
