@@ -1,6 +1,6 @@
 import familiaPage from '../support/pages/cadastro-familia'
 
-describe('Cadastro de famílias', () => {
+describe('Tela de famílias', () => {
 
   context('Cenários de sucesso', () => {
     beforeEach(() => {
