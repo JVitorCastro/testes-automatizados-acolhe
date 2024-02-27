@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 27 00:05:58 GMT 2024","Tue Feb 27 00:06:04 GMT 2024","6679","Tela de famílias","Cenários de sucesso","","","","Cadastro de uma família em um abrigo",""
+"passed","Tue Feb 27 00:06:10 GMT 2024","Tue Feb 27 00:06:11 GMT 2024","1248","","Login","","","","Tentativa de login com senha incorreta",""
+"passed","Tue Feb 27 00:06:12 GMT 2024","Tue Feb 27 00:06:14 GMT 2024","1248","","Login","","","","Tentativa de login com email incorreto",""
+"passed","Tue Feb 27 00:06:11 GMT 2024","Tue Feb 27 00:06:12 GMT 2024","1038","","Login","","","","Tentativa de login com email inválido",""
+"passed","Tue Feb 27 00:06:17 GMT 2024","Tue Feb 27 00:06:24 GMT 2024","6529","Tela de usuários","Cenários de sucesso","","","","Pesquisa de usuário",""
+"passed","Tue Feb 27 00:06:08 GMT 2024","Tue Feb 27 00:06:10 GMT 2024","1935","","Login","","","","Login com sucesso",""
+"passed","Tue Feb 27 00:05:47 GMT 2024","Tue Feb 27 00:05:54 GMT 2024","6667","Tela de abrigos","Cenários de falha","","","","Tentativa de cadastro de abrigo sem preencher um campo obrigatório",""
